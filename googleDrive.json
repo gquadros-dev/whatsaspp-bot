@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloudgquadros",
+  "private_key_id": "0e0e613a32e463d8bc6958bb4d0a5a39259f8f1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+XsRqySWZP2OV\n7cy8x+lleiPmX6YHIZZGnSdSOuqq8L97HRRSRR8Gi9tdnVbXMJ6Mi7eCRmdlJwb0\nxcQyB4D2DfWicwfQKT3XtmgPQY++XBT0WmX+RczOxZoUec336gyDolw1Hqdaw0Gt\nkUgm0Fb2Q9aXQUcMmpnFhf9JI4Two7KdDRBMmPFO5oGtK9WbG6BI543P67rKr389\nPnSyXEoThQHOwrVKe+nxIzZXslD1oTBAqJLSk7OutnCUMhOr80FBsoj1egoeRYUZ\n2XiRn2xzSHNmnBYV1xY+h+dsqlPWOEBVSUwhmhKYBHyYDig87SWn9IziBvhEWCZN\nWny8bsFzAgMBAAECggEAAUxmLJBIqF3tUPV5QwReDCokGosmd7/75Wlm/kGWninc\nNHvDSrhb+NB1Y5MSJ4+WVUEStFnElMUKYBsFNo4kjAkWVtBQClRtro348bmxwEui\nfPQs4+oX9oUUgvU9uWYoRbGSzW3zGERiq0tlYZZkMXPO/+MbF/Pp/pXmYtpSKs4A\nAdiy0ms1iQGBqw6abgsp3NeqOnVD7lFaVZmyuZ01HXCFaqKRY61I+ziJqd4kMvXs\n3ikT+iP2I9c/htPDeOUprMYDrvoVhsJwKUwLtIqy4Ugx4nmBg+8/u22qpr4H+3ug\nAMTdTiIAiFmUOa8JspPH8QBTvmN8PLtPCF2qKbljkQKBgQDtpf4fL0PsQ4BdqGtS\nTa9mweL62wr17jYvVY8N80CAUh+Gs9iYYZli4ncut8tFrQKYJGrLBQ8mBaZXKKqX\nA+KO07dmoS7hikeTSLtu2aDCkR9R4p2kO2BXJm3FyncODVbfjG6+gLO9i2x4rM/a\nMmqNizNMuMnLDez2EHTaDdjbWQKBgQDNEiTlBUK4LbzOXMsdkBbx74VkfzC5pVTb\nrBriRbu6fpkbX6XyY6FvSV0P+6W3nCncNp3qnN90AHb54MSYV4XGgsbBi/qw+M8H\nKJ936ilgA+hRz/C0m5nfWbwpatRcZgbl/+jUErFDF/vo2elTanNoIS7IoM22ibij\nidAkdreFqwKBgQCWFHpD32mZz5dFjpMYSw82acOagLKPVXzKr9HEEZbucu6N9w4W\nTay8kiCKVG/+9J/qzTTUOcGzVWYTLQ9uh3mQkYwFOE2PCfDhxtD31GB9/4A0ClVb\n3lOdNhulCZPeP/ZY/ysBC+53CZHbM+ef+K7p7Lrc/OYTYhv/2ayx+IS3IQKBgQCR\noKzqpk23FWPa+DKVj9l7faiwsVIcw7f7N8Dvpq2lxnlb4xSpiO7/ZI3d58rLFO71\nHyQNk9FrQ1k6Ic/6j0zEp+IVWB5yxn3ei46TTYqMULoOPyikWUtwPP1OPDsKUrnb\nY1woHg4bo1CVDwqO3i2OaOIcP3VWh37DQ/63pka1eQKBgQCd9FROL44Gsd92l4QE\nIfLpycbf1i/017qqNz2+Y6/FcFhyjL2e2cZnRF1uQxdXotrzJG3rfcywffRM46A0\nr9DqpiZSrXPVBypAv+xEZ0A/dJhn/q5wwp9skvAP42n9EX0PbQ4emvEhrPR/Fj9a\nMZ9kdKqeuCofuFWyIKqGlVpcfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledrive@cloudgquadros.iam.gserviceaccount.com",
+  "client_id": "104749573275791025233",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledrive%40cloudgquadros.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

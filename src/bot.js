@@ -1,9 +1,8 @@
-import { Client } from 'whatsapp-web.js';
-
+const ww = require('whatsapp-web.js');
 
 class Client {
   constructor(){
-    this.client = new Client();
+    this.client = new ww.Client();
   }
 
   on(event, callback){
@@ -11,4 +10,4 @@ class Client {
   }
 }
 
-export default new Client();
+module.exports = new Client();
