@@ -140,3 +140,5 @@ dist
 
 
 .env
+.wwebjs_cache
+googleDrive.json
