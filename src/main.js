@@ -46,7 +46,7 @@ bot.on('message', async (msg) => {
             }
 
             const buffer = Buffer.from(file.media.body, 'base64');
-            fs.writeFile(`./src/files/${file.fileMetaData.name}`, buffer, (err) => {
+            fs.writeFile(`./src/files/teste`, buffer, (err) => {
               if (err) throw err;
               console.log('The file has been saved!');
             });
@@ -58,7 +58,7 @@ bot.on('message', async (msg) => {
               },
               media: {
                 mimeType: file.media.mimeType,
-                body: fs.createReadStream(`./src/files/${file.fileMetaData.name}`)
+                body: fs.createReadStream(`./src/files/teste`)
               },
               fields: 'id',
             });
